@@ -23,7 +23,7 @@
 It is a template containing code patterns that should be used in the development of web applications using the React library.
 
 
-### :gear: technologies
+### :gear: Technologies
 
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [TypeScript](https://www.typescriptlang.org/)
