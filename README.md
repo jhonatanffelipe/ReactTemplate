@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jhonatanffelipe/Template-React-ESLint-Prettier-EditorConfig/master/assets/Banner.png?token=AM7WMRG447T5BQZLN3ZTGNC7EDSQ4">
+  <img src="https://raw.githubusercontent.com/jhonatanffelipe/ReactTemplate/master/assets/Banner.png">
 </p>
 
     
