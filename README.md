@@ -34,7 +34,7 @@ It is a template containing code patterns that should be used in the development
 
 ### :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/jhonatanffelipe/Template-React-ESLint-Prettier-EditorConfig/blob/master/LICENSE) for more information
+This project is under the MIT license. See the [LICENSE](https://github.com/jhonatanffelipe/ReactTemplate/blob/master/LICENSE) for more information
 
 
 
